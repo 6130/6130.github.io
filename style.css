@@ -1,0 +1,58 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #8b4513;
+  font-family: 'Jomolhari', serif;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  font-family: 'McLaren', cursive;
+  
+}
+/* Table */
+
+table {
+  height: 30%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 40%;
+}
+
+thead th {
+  background: #000000;
+  color: #FFF;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #f4f7f8;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+
+th, td {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 20px;
+  text-align: left;
+  width: 2%;
+}
+
+.search {
+  background-color: #FFF;
+  border: 1px solid #DDD;
+  border-radius: 3px;
+  color: #8b4513;
+  padding: 20px;
+  margin: 50px auto 0px auto;
+  width: 70%;
+}
